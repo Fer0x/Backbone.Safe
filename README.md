@@ -1,4 +1,6 @@
 # Backbone.Safe - local storage plugin
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Fer0x/Backbone.Safe.svg)](https://greenkeeper.io/)
 Backbone.Safe is a plugin for Backbone.js which stores a model's or a collection's json data to the local storage on set operations, regardless server side existance.
 The concept for Backbone.Safe has been created while the developing the [Echoes Player project](https://github.com/orizens/echoes).
 ## Install
